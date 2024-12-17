@@ -1,5 +1,4 @@
-# Robotics-Project
-Autonomous Toy Collection with POMDP Planning
+# Robotics-Project (Autonomous Toy Collection with POMDP Planning)
 This project implements an autonomous robotic system designed to collect valuable toys using Partially Observable Markov Decision Process (POMDP) planning. The robot must navigate an environment with uncertain toy locations, collect toys efficiently, and maximize reward collection within a limited number of actions.  
 ![image](https://github.com/user-attachments/assets/ee7502b1-b9f9-424c-9386-2c4368e29208)
 
